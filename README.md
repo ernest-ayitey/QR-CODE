@@ -61,16 +61,20 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
       align-items: center;
       justify-content: center;
     }
-
+```
 ### Continued development
+```
 ```
 <h2>Areas i want to focus on</h2>
 ```
+```
 <p> layouts</p>
+```
 ```
 ## Author
 - Frontend Mentor - [@ernest-ayitey](https://www.frontendmentor.io/profile/yourusername)
-
+```
 ###License
 ```
 This project is [MIT](https://github.com/ernest-ayitey/QR-CODE/blob/main/LICENSE) licensed
+```
