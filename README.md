@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![screenshot](../myImages/desktop.png)
-![screenshot](../myImages/iphoneSE.png)
+![screenshot](./images/myImages/desktop.png)
+![screenshot](./images/myImages/iphoneSE.png)
 
 
 
