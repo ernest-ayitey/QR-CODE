@@ -42,8 +42,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- ```html
+
+
+```html
 <h1>Some HTML code I'm proud of</h1>
+```
 ```css
 :root {
       --white-color: hsl(0, 0%, 100%);
