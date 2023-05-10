@@ -43,7 +43,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 <h1>Some HTML code I'm proud of</h1>
-
+```
 :root {
       --white-color: hsl(0, 0%, 100%);
       --light-gray: hsl(212, 45%, 89%);
@@ -57,7 +57,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
       align-items: center;
       justify-content: center;
     }
-
+```
 ### Continued development
 
 <h2>Areas i want to focus on</h2>
