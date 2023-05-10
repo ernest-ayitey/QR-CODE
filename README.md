@@ -69,10 +69,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 <p> layouts</p>
 ```
 ## Author
-```
 - Frontend Mentor - [@ernest-ayitey](https://www.frontendmentor.io/profile/yourusername)
 
-```
 ###License
 ```
 This project is [MIT](https://github.com/ernest-ayitey/QR-CODE/blob/main/LICENSE) licensed
