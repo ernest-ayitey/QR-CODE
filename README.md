@@ -67,9 +67,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ```
 <h2>Areas i want to focus on</h2>
 ```
-```
 <p> layouts</p>
-```
 ```
 ## Author
 - Frontend Mentor - [@ernest-ayitey](https://www.frontendmentor.io/profile/yourusername)
@@ -77,4 +75,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ###License
 ```
 This project is [MIT](https://github.com/ernest-ayitey/QR-CODE/blob/main/LICENSE) licensed
-```
