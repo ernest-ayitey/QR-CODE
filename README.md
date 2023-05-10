@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution/GitHub Repo](https://your-solution-url.com)
+- Solution URL: [Solution/GitHub Repo]([https://your-solution-url.com](https://github.com/ernest-ayitey/QR-CODE))
 - Live Site URL: [QR_CODE Live](https://your-live-site-url.com)
 
 ## My process
@@ -67,9 +67,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ```
 <h2>Areas i want to focus on</h2>
 ```
-```
 <p> layouts</p>
-```
 
 ## Author
 
