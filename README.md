@@ -31,9 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution/GitHub Repo](https://github.com/ernest-ayitey/QR-CODE)
-- Live Site URL: [QR_CODE Live](https://qr-code-2q4hvw915-ernest-ayitey.vercel.app/)
-
-
+- Live Site URL: [QR_CODE Live](https://qr-code-d1xd85mzf-ernest-ayitey.vercel.app/)
 
 ## My process
 
