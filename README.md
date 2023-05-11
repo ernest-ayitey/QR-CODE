@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![screenshot](./images/myImages/desktop.png)
-![screenshot](./images/myImages/iphoneSE.png)
+![screenshot](./images/solution/desktop.png)
+![screenshot](./images/solution/iphoneSE.png)
 
 
 
