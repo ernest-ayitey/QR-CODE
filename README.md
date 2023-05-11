@@ -66,6 +66,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 <h2>Areas i want to focus on</h2>
 
 <p> layouts</p>
+<p> Animations</p>
 
 ## Author
 
